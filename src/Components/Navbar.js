@@ -15,7 +15,7 @@ const Navbar = () => {
         </div>
         <div className='nav-item'>
             <Link className='nav-link' to="/about">
-                click me
+                click me first
             </Link>    
         </div>
         <div className='nav-item'>
