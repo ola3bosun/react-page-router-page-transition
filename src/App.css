@@ -62,3 +62,17 @@ a{
 .slide-out{
   transform-origin: top;
 }
+
+/* MOBILE VIEW */
+@media screen and (max-width: 768px) {
+  .nav-links {
+    flex-direction: column;
+    text-align: right;
+  }
+
+  .logo,
+.nav-item {
+  margin: 1rem;
+  font-size: 1rem;
+}
+}
