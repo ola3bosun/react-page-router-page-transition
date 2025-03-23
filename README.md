@@ -62,7 +62,7 @@ const transitionVariants = {
 ---
 ## **👨‍💻 Author**
 **olatubosun**  
-📌 GitHub: [your-username](https://github.com/ola3bosun) 
-📌 Twitter: [your-handle](https://twitter.com/ola2bosun__)
+📌 GitHub: [ola3bosun](https://github.com/ola3bosun) 
+📌 Twitter: [ola2bosun__](https://twitter.com/ola2bosun__)
 
 
